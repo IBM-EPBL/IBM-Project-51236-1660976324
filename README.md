@@ -30,9 +30,9 @@
 📱    <b>Team ID: </b>PNT2022TMID28822 <br><br>
 📫 How to reach Us <a href = "mailto:nithi532002@gmail.com">Connect with Email</a><br><br>
 ![](https://komarev.com/ghpvc/?username=IBM-Project-51236-1660976324&label=PROFILE+VIEWS)  
-![](label=PROFILE+VIEWS)
+![](label=PROFILE+VIEWS) <br>
  
- 
+  
  
  </div>
 
@@ -52,6 +52,9 @@ SRIHARIKOTA ARUN KUMAR
 
 
 
+
+<div align="center">
+<img src="https://github.com/Nithish532/project-/blob/main/IBM%20project%20sources/nothing/DHL%20image%20sources/dhl-delivery.gif" alt="Logo" width="800" height="240" ></div>
 
 
 
@@ -86,12 +89,12 @@ At its peak, DHL Air Cargo employed just over 100 workers, management, and pilot
 
 
 # **🎯Skills Required:**
-- IBM Cloud
-- HTML
-- Python
-- IBM Cognos
-- IBM Watson DataAnalytics platform
-- Jupyter Notebook
+- [x] IBM Cloud
+- [x] HTML
+- [x] Python
+- [x] IBM Cognos
+- [x] IBM Watson DataAnalytics platform
+- [x] Jupyter Notebook
 
 <br>
 <div>
@@ -115,6 +118,14 @@ Team Member:  Sriharikota Arun Kumar
 
 
 
+ <div align="center"><br>
+ 
+  
+![](https://img.shields.io/github/stars/IBM-EPBL/IBM-Project-51236-1660976324.svg?style=for-the-badge)
+![](https://img.shields.io/github/forks/IBM-EPBL/IBM-Project-51236-1660976324.svg?style=for-the-badge)
+![](https://img.shields.io/github/contributors/IBM-EPBL/IBM-Project-51236-1660976324.svg?style=for-the-badge)<br><br>
+ 
+ </div>
  <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
@@ -156,3 +167,5 @@ Send Feedback
 
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+
+
