@@ -5,16 +5,41 @@
  
  
 # IBM-Project-51236-1660976324
-# Data Analytics for DHL Logistics Facilities
+ 
+
+ <h1><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.gif" alt="💥" width="40" height="40">
+</picture> Data Analytics for DHL Logistics Facilities <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.gif" alt="💥" width="40" height="40">
+</picture></h1>
+ 
+ 
+
 <img src="https://github.com/Nithish532/project-/blob/main/IBM%20project%20sources/nothing/Gif_1.gif" align="right" width="240" height="175"/>
-</div>
+ 
+
+ <img src="https://github.com/Nithish532/project-/blob/main/IBM%20project%20sources/nothing/Gif_2.gif" align="left" width="240" height="175"/>
 
 
-🛰️     <b>Technology:</b> DataAnalytics <br>
-📱    <b>Team ID: </b>PNT2022TMID28822 <br>
-📫 How to reach Us <a href = "mailto:nithi532002@gmail.com">Connect with Email</a><br>
+
+
+
+🛰️     <b>Technology:</b> DataAnalytics <br><br>
+📱    <b>Team ID: </b>PNT2022TMID28822 <br><br>
+📫 How to reach Us <a href = "mailto:nithi532002@gmail.com">Connect with Email</a><br><br>
 ![](https://komarev.com/ghpvc/?username=IBM-Project-51236-1660976324&label=PROFILE+VIEWS)  
 ![](label=PROFILE+VIEWS)
+ 
+ 
+ 
+ </div>
+
+
+
+
+
 
 # **👩‍👦TEAM MEMBERS:**    
 ```html                      
@@ -29,10 +54,6 @@ SRIHARIKOTA ARUN KUMAR
 
 
 
-
-<div>
- <img src="https://github.com/Nithish532/project-/blob/main/IBM%20project%20sources/nothing/Gif_2.gif" align="right" width="240" height="175"/>
-</div>
 
 
 
@@ -74,7 +95,7 @@ At its peak, DHL Air Cargo employed just over 100 workers, management, and pilot
 
 <br>
 <div>
-  <img src="https://github.com/Nithish532/project-/blob/main/IBM%20project%20sources/nothing/DHL%20image%20sources/Image_1.jpg" align="right" width="240" height="175"/>
+  <img src="https://github.com/Nithish532/project-/blob/main/IBM%20project%20sources/nothing/DHL%20image%20sources/Image_3.jpg" align="right" width="240" height="175"/>
  </div>
 
 # 🔑Security:
@@ -91,6 +112,33 @@ Team Member:  Sathish S B
 Team Member:  Sriharikota Arun Kumar
 ```
 
+
+
+
+ <div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
+</picture> By Public Review :</h2></div>
+<picture>&emsp;&emsp;&emsp;
+ 
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture><picture>
+  
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture><picture>
+ 
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture><picture>
+ 
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>
+<br></div><br>
+
+
+
+
+
 <a href = "mailto:nithi532002@gmail.com?subject = Feedback&body = Message">
 Send Feedback
 </a>
@@ -105,3 +153,6 @@ Send Feedback
  👋THANK YOU
  </h1>
 </div>
+
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
