@@ -6,7 +6,7 @@
  
 # IBM-Project-51236-1660976324
 # Data Analytics for DHL Logistics Facilities
-<img src="https://cdn.dribbble.com/users/2929464/screenshots/5732611/media/9e4c99f2dccc3103c274715ac928490f.gif" align="right" width="240" height="175"/>
+<img src="https://github.com/Nithish532/project-/blob/main/IBM%20project%20sources/nothing/Gif_1.gif" align="right" width="240" height="175"/>
 </div>
 
 
@@ -23,8 +23,22 @@ NARENDRA PRASATH V
 SATHISH S B 			
 SRIHARIKOTA ARUN KUMAR	       
 ```
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/10200069?s=200&v=4" width="840" height="280"></div>
+
+
+
+
+
+
+
+<div>
+ <img src="https://github.com/Nithish532/project-/blob/main/IBM%20project%20sources/nothing/Gif_2.gif" align="right" width="240" height="175"/>
+</div>
+
+
+
+
+
+
 
 # **📜PROJECT DESCRIPTION:**
 
@@ -40,6 +54,10 @@ Adrian Dalsey and Larry Hillblom personally oversaw the daily operations
 until its eventual bankruptcy closed the doors in 1983. 
 At its peak, DHL Air Cargo employed just over 100 workers, management, and pilots.
 <br>
+<div>
+  <img src="https://github.com/Nithish532/project-/blob/main/IBM%20project%20sources/nothing/DHL%20image%20sources/Image_2.jpg" align="right" width="240" height="175"/>
+ 
+ </div>
 <br>
 
 
@@ -54,6 +72,10 @@ At its peak, DHL Air Cargo employed just over 100 workers, management, and pilot
 - IBM Watson DataAnalytics platform
 - Jupyter Notebook
 
+<br>
+<div>
+  <img src="https://github.com/Nithish532/project-/blob/main/IBM%20project%20sources/nothing/DHL%20image%20sources/Image_1.jpg" align="right" width="240" height="175"/>
+ </div>
 
 # 🔑Security:
 [![Security](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://github.com/IBM-EPBL/IBM-Project-51236-1660976324/blob/main/SECURITY.md)
