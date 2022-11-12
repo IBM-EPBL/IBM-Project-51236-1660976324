@@ -27,7 +27,7 @@ SRIHARIKOTA ARUN KUMAR
 <img src="https://avatars.githubusercontent.com/u/10200069?s=200&v=4" width="840" height="280"></div>
 
 # **📜PROJECT DESCRIPTION:**
-```html
+
 DHL is an international Umbrella brand and trademark for the 
 courier, package delivery, and express mail service 
 which is a division of the German logistics firm Deutsche Post.
@@ -39,10 +39,11 @@ with an inter-island cargo service using two DC-3 and four DC-6 aircraft.
 Adrian Dalsey and Larry Hillblom personally oversaw the daily operations
 until its eventual bankruptcy closed the doors in 1983. 
 At its peak, DHL Air Cargo employed just over 100 workers, management, and pilots.
-```
+<br>
+<br>
 
 
-For detailed Project Overview: [[CLICK HERE]](https://drive.google.com/file/d/1whRyU3rPD5ZW08XOA-jBYUq_X6WC9MG9/view?usp=drivesdk)
+<b><i>For Detailed Project Overview:</b></i> [[CLICK HERE]](https://drive.google.com/file/d/1whRyU3rPD5ZW08XOA-jBYUq_X6WC9MG9/view?usp=drivesdk)
 
 
 # **🎯Skills Required:**
